@@ -85,3 +85,89 @@ sid,name,bikes,racks,slots,type
 5232,Besucherzentrum,0,5,5,stele,2019-01-31 06:10:47.489405
 5252,RBB,4,0,0,stele,2019-01-31 06:10:47.489405
 5253,Wissenschaftspark Potsdam-Golm,5,10,5,stele,2019-01-31 06:10:47.489405
+5201,Bahnhof Golm,5,8,3,stele,2019-01-31 06:16:28.848257
+5202,Neues Palais / Universität,5,10,1,stele,2019-01-31 06:16:28.848257
+5203,Bahnhof Charlottenhof,5,6,1,stele,2019-01-31 06:16:28.848257
+5204,Kirschallee / Pappelallee,5,12,4,stele,2019-01-31 06:16:28.848257
+5205,Volkspark Süd,5,8,1,stele,2019-01-31 06:16:28.848257
+5206,Zeppelinstraße / Feuerbachstr. / Breite Straße,5,14,9,stele,2019-01-31 06:16:28.848257
+5207,Luisenplatz Süd / Sparkasse,5,10,0,stele,2019-01-31 06:16:28.848257
+5208,Jägertor / Lindenstr.,2,6,4,stele,2019-01-31 06:16:28.848257
+5210,Dortusstraße / Charlottenstraße,1,6,5,stele,2019-01-31 06:16:28.848257
+5211,Hauptbahnhof Nord,5,14,1,stele,2019-01-31 06:16:28.848257
+5212,Stadthaus Potsdam,0,8,8,stele,2019-01-31 06:16:28.848257
+5213,Waldstadt / Heinrich-Mann-Allee,3,12,9,stele,2019-01-31 06:16:28.848257
+5214,Platz der Einheit,5,10,5,stele,2019-01-31 06:16:28.848257
+5215,Filmmuseum,3,10,7,stele,2019-01-31 06:16:28.848257
+5216,Schiffbauergasse,5,14,9,stele,2019-01-31 06:16:28.848257
+5217,Hauptbahnhof Süd / Taxistand,0,12,12,stele,2019-01-31 06:16:28.848257
+5218,Rathaus Babelsberg,5,8,3,stele,2019-01-31 06:16:28.848257
+5219,Kopernikusstraße,3,8,5,stele,2019-01-31 06:16:28.848257
+5220,Plantagenplatz,5,8,3,stele,2019-01-31 06:16:28.848257
+5221,Bahnhof Griebnitzsee,5,8,0,stele,2019-01-31 06:16:28.848257
+5223,Filmuniversität Babelsberg,2,12,10,stele,2019-01-31 06:16:28.848257
+5224,Humboldtring / Zentrum Ost,5,10,5,stele,2019-01-31 06:16:28.848257
+5222,Friedrich-Ebert-Straße / Mittelstraße,5,10,3,stele,2019-01-31 06:16:28.848257
+5228,Fachhochschule Potsdam,5,12,7,stele,2019-01-31 06:16:28.848257
+5245,Gartenstadt Drewitz,5,6,1,stele,2019-01-31 06:16:28.848257
+5248,"Geltow, Wimmerplatz",0,5,5,stele,2019-01-31 06:16:28.848257
+5244,Johannes-Kepler-Platz,3,6,3,stele,2019-01-31 06:16:28.848257
+5242,Bahnhof Medienstadt,5,6,1,stele,2019-01-31 06:16:28.848257
+5243,Steinstraße,5,6,0,stele,2019-01-31 06:16:28.848257
+5249,Bahnhof Michendorf,0,4,4,stele,2019-01-31 06:16:28.848257
+5250,Bahnhof Wilhelmshorst,0,4,4,stele,2019-01-31 06:16:28.848257
+5251,Parkplatz Wildenbruch,0,4,4,stele,2019-01-31 06:16:28.848257
+5225,Bahnhof Sanssouci,5,0,0,free,2019-01-31 06:16:28.848257
+5226,Bahnhof Pirschheide,2,0,0,free,2019-01-31 06:16:28.848257
+5256,Zeppelinstraße/Kastanienallee,5,0,0,free,2019-01-31 06:16:28.848257
+5229,Campus Jungfernsee,1,6,5,stele,2019-01-31 06:16:28.848257
+5231,Waldbad Templin,0,0,0,free,2019-01-31 06:16:28.848257
+0,BIKE 33209,1,0,0,,2019-01-31 06:16:28.848257
+5233,Bahnhof Werder,0,5,5,stele,2019-01-31 06:16:28.848257
+5234,Grellebucht,0,5,5,stele,2019-01-31 06:16:28.848257
+5232,Besucherzentrum,0,5,5,stele,2019-01-31 06:16:28.848257
+5252,RBB,4,0,0,stele,2019-01-31 06:16:28.848257
+5253,Wissenschaftspark Potsdam-Golm,5,10,5,stele,2019-01-31 06:16:28.848257
+5201,Bahnhof Golm,5,8,3,stele,2019-01-31 06:16:29.166687
+5202,Neues Palais / Universität,5,10,1,stele,2019-01-31 06:16:29.166687
+5203,Bahnhof Charlottenhof,5,6,1,stele,2019-01-31 06:16:29.166687
+5204,Kirschallee / Pappelallee,5,12,4,stele,2019-01-31 06:16:29.166687
+5205,Volkspark Süd,5,8,1,stele,2019-01-31 06:16:29.166687
+5206,Zeppelinstraße / Feuerbachstr. / Breite Straße,5,14,9,stele,2019-01-31 06:16:29.166687
+5207,Luisenplatz Süd / Sparkasse,5,10,0,stele,2019-01-31 06:16:29.166687
+5208,Jägertor / Lindenstr.,2,6,4,stele,2019-01-31 06:16:29.166687
+5210,Dortusstraße / Charlottenstraße,1,6,5,stele,2019-01-31 06:16:29.166687
+5211,Hauptbahnhof Nord,5,14,1,stele,2019-01-31 06:16:29.166687
+5212,Stadthaus Potsdam,0,8,8,stele,2019-01-31 06:16:29.166687
+5213,Waldstadt / Heinrich-Mann-Allee,3,12,9,stele,2019-01-31 06:16:29.166687
+5214,Platz der Einheit,5,10,5,stele,2019-01-31 06:16:29.166687
+5215,Filmmuseum,3,10,7,stele,2019-01-31 06:16:29.166687
+5216,Schiffbauergasse,5,14,9,stele,2019-01-31 06:16:29.166687
+5217,Hauptbahnhof Süd / Taxistand,0,12,12,stele,2019-01-31 06:16:29.166687
+5218,Rathaus Babelsberg,5,8,3,stele,2019-01-31 06:16:29.166687
+5219,Kopernikusstraße,3,8,5,stele,2019-01-31 06:16:29.166687
+5220,Plantagenplatz,5,8,3,stele,2019-01-31 06:16:29.166687
+5221,Bahnhof Griebnitzsee,5,8,0,stele,2019-01-31 06:16:29.166687
+5223,Filmuniversität Babelsberg,2,12,10,stele,2019-01-31 06:16:29.166687
+5224,Humboldtring / Zentrum Ost,5,10,5,stele,2019-01-31 06:16:29.166687
+5222,Friedrich-Ebert-Straße / Mittelstraße,5,10,3,stele,2019-01-31 06:16:29.166687
+5228,Fachhochschule Potsdam,5,12,7,stele,2019-01-31 06:16:29.166687
+5245,Gartenstadt Drewitz,5,6,1,stele,2019-01-31 06:16:29.166687
+5248,"Geltow, Wimmerplatz",0,5,5,stele,2019-01-31 06:16:29.166687
+5244,Johannes-Kepler-Platz,3,6,3,stele,2019-01-31 06:16:29.166687
+5242,Bahnhof Medienstadt,5,6,1,stele,2019-01-31 06:16:29.166687
+5243,Steinstraße,5,6,0,stele,2019-01-31 06:16:29.166687
+5249,Bahnhof Michendorf,0,4,4,stele,2019-01-31 06:16:29.166687
+5250,Bahnhof Wilhelmshorst,0,4,4,stele,2019-01-31 06:16:29.166687
+5251,Parkplatz Wildenbruch,0,4,4,stele,2019-01-31 06:16:29.166687
+5225,Bahnhof Sanssouci,5,0,0,free,2019-01-31 06:16:29.166687
+5226,Bahnhof Pirschheide,2,0,0,free,2019-01-31 06:16:29.166687
+5256,Zeppelinstraße/Kastanienallee,5,0,0,free,2019-01-31 06:16:29.166687
+5229,Campus Jungfernsee,1,6,5,stele,2019-01-31 06:16:29.166687
+5231,Waldbad Templin,0,0,0,free,2019-01-31 06:16:29.166687
+0,BIKE 33209,1,0,0,,2019-01-31 06:16:29.166687
+5233,Bahnhof Werder,0,5,5,stele,2019-01-31 06:16:29.166687
+5234,Grellebucht,0,5,5,stele,2019-01-31 06:16:29.166687
+5232,Besucherzentrum,0,5,5,stele,2019-01-31 06:16:29.166687
+5252,RBB,4,0,0,stele,2019-01-31 06:16:29.166687
+5253,Wissenschaftspark Potsdam-Golm,5,10,5,stele,2019-01-31 06:16:29.166687

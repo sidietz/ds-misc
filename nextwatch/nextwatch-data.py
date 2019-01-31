@@ -1,11 +1,10 @@
 
 # coding: utf-8
 
-# In[121]:
+# In[ ]:
 
 
 import requests as rq
-import pandas as pd
 import re
 from lxml import html
 import json
@@ -13,50 +12,50 @@ from datetime import datetime
 import csv
 
 
-# In[122]:
+# In[ ]:
 
 
 URL = "https://nextbike.net/maps/nextbike-live.json?city=158"
 
 
-# In[123]:
+# In[ ]:
 
 
 response = rq.get(URL)
 
 
-# In[124]:
+# In[ ]:
 
 
 nxt_json = json.loads(response.text)
 ct = datetime.utcnow()
 
 
-# In[125]:
+# In[ ]:
 
 
 places = nxt_json['countries'][0]['cities'][0]['places']
 
 
-# In[126]:
+# In[ ]:
 
 
 len_p = len(places)
 
 
-# In[127]:
+# In[ ]:
 
 
 meta = nxt_json['countries'][0]['cities'][0]
 
 
-# In[128]:
+# In[ ]:
 
 
 # metaset = list(map(lambda x: [x['set_point_bikes'], ct], meta))
 
 
-# In[129]:
+# In[ ]:
 
 
 def bt2s(x):
@@ -67,67 +66,67 @@ def bt2s(x):
     return s
 
 
-# In[130]:
+# In[ ]:
 
 
 #meta
 
 
-# In[131]:
+# In[ ]:
 
 
 z = meta['bike_types']
 
 
-# In[132]:
+# In[ ]:
 
 
 #meta['bike_types']
 
 
-# In[133]:
+# In[ ]:
 
 
 bikemetaset = [meta['set_point_bikes'], len_p, bt2s(meta['bike_types']), ct]
 
 
-# In[134]:
+# In[ ]:
 
 
 #bikemetaset
 
 
-# In[135]:
+# In[ ]:
 
 
 #bikes = list(map(lambda x: [x['set_point_bikes'], x['name'], x['bikes'], ct], places))
 
 
-# In[136]:
+# In[ ]:
 
 
 #meta
 
 
-# In[137]:
+# In[ ]:
 
 
 # dataset = [[i, x['name'], x['bikes'], ct] for i,x in enumerate(places)]
 
 
-# In[138]:
+# In[ ]:
 
 
 dataset = list(map(lambda x: [x['number'], x['name'], x['bikes'], x['bike_racks'], x['free_racks'], x['terminal_type'], ct], places))
 
 
-# In[139]:
+# In[ ]:
 
 
 #dataset
 
 
-# In[140]:
+# In[ ]:
 
 
 def write_ds(dataset, name):
@@ -136,20 +135,20 @@ def write_ds(dataset, name):
         writer.writerows(dataset)
 
 
-# In[141]:
+# In[ ]:
 
 
 write_ds(dataset, "nb")
 write_ds([bikemetaset], "bm")
 
 
-# In[142]:
+# In[ ]:
 
 
 #places[0]
 
 
-# In[143]:
+# In[ ]:
 
 
 #response.text
